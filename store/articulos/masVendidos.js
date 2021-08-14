@@ -1,0 +1,77 @@
+export const state = () => ({
+  //el id 1 es los electronicos  y el aydi 2 lo demas 
+  data: [{
+
+      id: 1,
+      nombreCorto: 'Logitech G213 Prodigy',
+      nombre: 'Logitech G213 Prodigy - Teclado Gaming, Retroiluminación RGB, Controles Multimedia, Negro (Teclado Inglés)',
+      src: '/img/mas_vendido/Logitech G213 Prodigy.jpg',
+      accesorios: '/img/accesorios/masvendidos.png',
+      ref: ' https://amzn.to/2LXRujD',
+      estrellas: 4.7,
+    },
+    {
+      id: 2,
+      nombreCorto: 'Vorago Keyboard502',
+      nombre: 'Vorago Keyboard502 Teclado Start The Game Alámbrico Metálico Multimedia Iluminado RGB USB, color Negro ',
+      accesorios: '/img/accesorios/masvendidos.png',
+      src: '/img/mas_vendido/Vorago Keyboard502.jpg',
+      ref: 'https://amzn.to/2yABlgV',
+      estrellas: 4.6,
+    },
+    {
+      id: 3,
+      nombreCorto: 'Casio SA-76 Teclado',
+      nombre: 'Casio SA-76 Teclado con 44 Teclas Mini, 100 Tonos, 50 Ritmos, 10 Melodías, color Negro',
+      accesorios: '/img/accesorios/masvendidos.png',
+      src: '/img/mas_vendido/Casio SA-76 Teclado.jpg',
+      ref: 'https://amzn.to/2ZGWd1g',
+      estrellas: 4.2,
+    },
+    {
+      id: 4,
+      nombreCorto: 'RockJam Xfinity  ',
+      nombre: 'RockJam Xfinity Heavy-Duty, Double-X, Pre-Assembled, Infinitely Adjustable Piano Keyboard Stand with Locking Straps',
+      accesorios: '/img/accesorios/masvendidos.png',
+      src: '/img/mas_vendido/RockJam Xfinity.jpg',
+      ref: 'https://amzn.to/3gpGut3',
+      estrellas: 4.6,
+    },
+    {
+      id: 5,
+      nombreCorto: 'ARKARTECH Audífonos ',
+      nombre: 'ARKARTECH Audífonos Gamer con Micrófono para PS4 Xbox One PC Switch, Auriculares Alámbrico y 7 Luz LED Control de Volumen, Gaming Headset con 3.5mm Conector para Juegos, Tableta, Celulares',
+      accesorios: '/img/accesorios/masvendidos.png',
+      src: '/img/mas_vendido/ARKARTECH Audífonos.jpg',
+      ref: 'https://amzn.to/3egHg9Y',
+      estrellas: 4.6,
+    },
+    {
+      id: 6,
+      nombreCorto: 'Logitech 981-000830 ',
+      nombre: 'Logitech 981-000830 G332 SE Gaming Headset, Color, Pack of/Paquete de 1',
+      accesorios: '/img/accesorios/masvendidos.png',
+      src: '/img/mas_vendido/Logitech 981-000830.jpg',
+      ref: 'https://amzn.to/2TH98MR',
+      estrellas: 4.4,
+    },
+    {
+      id: 7,
+      nombreCorto: 'Monitor BenQ Gamer',
+      nombre: 'Monitor BenQ Gamer 28 pulgadas 4K HDR  (EL2870U), Tiempo de respuesta 1ms, UHD, Panel TN, Free-Sync, Eye-Care, Anti reflejante, Brightness Intelligence Plus, HDMI, DP, Bocinas integradas',
+
+      src: '/img/mas_vendido/Monitor BenQ Gamer.jpg',
+      ref: 'https://amzn.to/3c73av0',
+      estrellas: 4.3,
+    },
+    {
+      id: 7,
+      nombreCorto: 'Neewer 40084747',
+      nombre: 'Neewer 40084747 - Kit de NW-700 Micrófono Condensador para Radiodifusión y Grabación, NW-35 Soporte de brazo Ajustable en forma de Tijera de Suspensión con Montura Antivibratoria y Abrazadera',
+      accesorios: '/img/accesorios/masvendidos.png',
+      src: '/img/mas_vendido/Neewer 40084747.jpg',
+      ref: 'https://amzn.to/2M37lgQ',
+      estrellas: 4.6,
+    }
+  ],
+})
